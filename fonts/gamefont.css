@@ -1,6 +1,11 @@
 @font-face {
     font-family: GameFont;
-    src: url("mplus-1m-regular.ttf");
+    src: url('mplus-1m-regular.ttf');
+}
+
+@font-face {
+    font-family: 'CrimsonText-Regular';
+    src: url('CrimsonText-Regular.ttf');
 }
 
 .IIV::-webkit-media-controls-play-button,
