@@ -1,8 +1,8 @@
 [
 null,
 {"id":1,"expanded":false,"name":"Hutan","order":1,"parentId":0,"scrollX":973.1999999999999,"scrollY":626.4},
-{"id":2,"expanded":false,"name":"Medan Perang","order":2,"parentId":0,"scrollX":973.1999999999999,"scrollY":914.4},
-{"id":3,"expanded":true,"name":"Kerajaan","order":3,"parentId":0,"scrollX":1090.8,"scrollY":2268},
+{"id":2,"expanded":false,"name":"Medan Perang","order":2,"parentId":0,"scrollX":973.1999999999999,"scrollY":771.5999999999999},
+{"id":3,"expanded":true,"name":"Kerajaan","order":3,"parentId":0,"scrollX":1090.8,"scrollY":2012.3999999999999},
 {"id":4,"expanded":false,"name":"Dalam Kerajaan","order":4,"parentId":3,"scrollX":982.8,"scrollY":573.6},
 {"id":5,"expanded":false,"name":"Area Pembangunan Candi","order":5,"parentId":0,"scrollX":973.1999999999999,"scrollY":626.4},
 {"id":6,"expanded":false,"name":"Area Pembangunan Candi2","order":6,"parentId":0,"scrollX":973.1999999999999,"scrollY":722.4}
