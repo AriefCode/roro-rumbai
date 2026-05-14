@@ -2,5 +2,5 @@
 null,
 {"id":1,"battlerName":"PrabuBaka","characterIndex":0,"characterName":"PeoplePrambanan","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"ActorPrambanan","traits":[],"initialLevel":1,"maxLevel":99,"name":"Prabu Baka","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"roro","characterIndex":2,"characterName":"PeoplePrambanan","classId":4,"equips":[2,1,2,3,0],"faceIndex":2,"faceName":"ActorPrambanan","traits":[],"initialLevel":1,"maxLevel":99,"name":"Roro Jonggrang","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"Bandung","characterIndex":1,"characterName":"PeoplePrambanan","classId":2,"equips":[3,0,2,3,4],"faceIndex":1,"faceName":"ActorPrambanan","traits":[],"initialLevel":1,"maxLevel":99,"name":"Bandung Banduwoso","nickname":"","note":"","profile":""}
+{"id":3,"battlerName":"Bandung","characterIndex":1,"characterName":"PeoplePrambanan","classId":2,"equips":[3,0,2,3,4],"faceIndex":1,"faceName":"ActorPrambanan","traits":[],"initialLevel":50,"maxLevel":99,"name":"Bandung Banduwoso","nickname":"","note":"","profile":""}
 ]
